@@ -1,5 +1,5 @@
 # FatimahAreola.github.io
-<!doctype html>
+<doctype html>
 <html lang="en">
 
 <!-- The head = space to link to important things the webpage needs to load -->
