@@ -8,7 +8,7 @@
     <!-- Tells the browser how to read this document -->
     <meta charset="utf-8">
     <!-- The title = what goes on the tab -->
-    <title> Fatimah Areola </title>
+ <title> Fatimah Areola </title>
 
     <!-- Links to where you've put the styles of your page -->
     <link rel="stylesheet" href="css/styles.css">
