@@ -5,6 +5,21 @@
 <head>
   <meta charset="utf-8">
 
+  <title>Part 0-Basics</title>
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+  Stuff goes here!
+</body>
+</html><!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
   <title>Part 2-Elements</title>
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
@@ -33,3 +48,4 @@
 
 </body>
 </html>
+
