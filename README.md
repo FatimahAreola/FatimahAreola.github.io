@@ -1,4 +1,4 @@
-# FatimahAreola.github.io
+#FatimahAreola.github.io
 <doctype html>
 <html lang="en">
 
@@ -8,7 +8,7 @@
     <!-- Tells the browser how to read this document -->
     <meta charset="utf-8">
     <!-- The title = what goes on the tab -->
- <title> Fatimah Areola <title>
+ <title>* Fatimah Areola *</title>
 
     <!-- Links to where you've put the styles of your page -->
     <link rel="stylesheet" href="css/styles.css">
@@ -17,7 +17,7 @@
 </head>
 
 <header>
-    <h1> * YOUR NAME * </h1>
+    <h1> * Fatimah Areola * </h1>
     <h2> * CATCHY TITLES TO DESCRIBE WHO YOU ARE * </h2>
 </header>
 
@@ -47,7 +47,7 @@
 </body>
 
 <footer>
-    <a class="btn" href="PATH TO YOUR RESUME" title="Resume" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">
+    <a class="btn" href="PATH TO YOUR RESUME" title="Resume" onclick="window.open(this.href); return false; onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
     <a class="btn" href="https://www.facebook.com/UWWiSTEM/" title="Facebook" onclick="window.open(this.href); return false;"
