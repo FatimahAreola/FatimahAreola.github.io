@@ -61,5 +61,3 @@
         <i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
     </a>
 </footer>
-
-</html>
