@@ -38,7 +38,7 @@
             <div class="portfolio-item">
                 <h4>  CURRENTLY WORKING ON:
                 <p> I'm on a study term! 
-                    Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics.  </h4>
+                    Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics. </h4>
                 <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">
             </div>
         </div>
