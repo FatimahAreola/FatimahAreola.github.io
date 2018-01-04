@@ -23,7 +23,7 @@
 
 <body>
     <div class="bio">
-        <img id="headshot" src="img/headshot.jpg">
+        <img id="headshot" src="desktop/headshot.jpg">
         <h2> * ABOUT YOU * </h2>
         <p> * WRITE ABOUT YOURSELF HERE * </p>
     </div>
