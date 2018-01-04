@@ -24,7 +24,7 @@
 <body>
     <div class="bio">
         <img id="headshot" src="desktop/headshot.jpg">
-        <h2> * ABOUT YOU * </h2>
+        <h2> * I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone and guitar and cooking!* </h2>
         <p> * WRITE ABOUT YOURSELF HERE * </p>
     </div>
     <div class="portfolio">
