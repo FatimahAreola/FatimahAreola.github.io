@@ -24,22 +24,21 @@
 <body>
     <div class="bio">
         <img id="headshot" src="desktop/headshot.jpg">
-        <h2> * ABOUT* </h2>
-        <p> * I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone and guitar and cooking! * </p>
+        <h2>  ABOUT </h2>
+        <p>  I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone and guitar and cooking!  </p>
     </div>
     <div class="portfolio">
-        <h2> * A PLACE TO SHOW OFF YOUR WORK/LIFE * </h2>
+        <h2>  PROJECTS  </h2>
         <div class="portfolio-row">
             <div class="portfolio-item">
-                <h4> * TITLE OF PORTFOLIO ITEM * </h4>
+                <h4>  MSCI100 GROUP PROJECT: DESCISION SUPPORT TOOL  </h4>
+                <p> DESCRIBE <p>
                 <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">
             </div>
             <div class="portfolio-item">
-                <h4> * TITLE OF PORTFOLIO ITEM * </h4>
-                <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">
-            </div>
-            <div class="portfolio-item">
-                <h4> * TITLE OF PORTFOLIO ITEM * </h4>
+                <h4>  CURRENTLY WORKING ON:
+                <p> I'm on a study term! 
+                    Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics.  </h4>
                 <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">
             </div>
         </div>
