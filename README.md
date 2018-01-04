@@ -33,7 +33,8 @@
             <div class="portfolio-item">
                 <h4>  MSCI 100 GROUP PROJECT: DECISION SUPPORT TOOL  </h4>
                 <p> DESCRIBE <p>
-                <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">
+                <a class="btn" href="https://drive.google.com/file/d/1vF3ADzYP_C06fO_bR7iFkM5FgxWtKmGq/view?usp=sharing" title="DST" keypress="window.open(this.href); return false;">
+        <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
             </div>
             <div class="portfolio-item">
                 <h4>  CURRENTLY WORKING ON:
