@@ -17,13 +17,13 @@
 </head>
 
 <header>
-    <h1> * Fatimah Areola * </h1>
-    <h2> * CATCHY TITLES TO DESCRIBE WHO YOU ARE * </h2>
+    <h1>  Fatimah Areola  </h1>
+    <h2> 1B Honors Management Engineering </h2>
 </header>
 
 <body>
     <div class="bio">
-        <img id="profile-image" src="img/profile-placeholder.svg">
+        <img id="headshot" src="img/headshot.jpg">
         <h2> * ABOUT YOU * </h2>
         <p> * WRITE ABOUT YOURSELF HERE * </p>
     </div>
