@@ -43,7 +43,6 @@
                 <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">
             </div>
         </div>
-    </div>
 </body>
 
 <footer>
