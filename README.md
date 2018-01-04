@@ -46,7 +46,7 @@
 </body>
 
 <footer>
-    <a class="btn" href="https://drive.google.com/file/d/1NJW-r4NhNGO9ZrWJFDRpTDreX1n7YTCh/view?usp=sharing" title="Resume" onclick="window.open(this.href); return false; onkeypress="window.open(this.href); return false;">
+    <a class="btn" href="https://drive.google.com/file/d/1NJW-r4NhNGO9ZrWJFDRpTDreX1n7YTCh/view?usp=sharing" title="Resume" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
     <a class="btn" href="https://www.facebook.com/fatimah.are/" title="Facebook" onclick="window.open(this.href); return false;"
