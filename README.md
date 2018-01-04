@@ -25,7 +25,7 @@
     <div class="bio">
         <img id="headshot" src="desktop/headshot.jpg">
         <h2>  ABOUT </h2>
-        <p>  I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone and guitar and cooking! This site was built with a lot of help from the UW Women In STEM club!(http://uwwistem.ca) </p>
+        <p>  I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone, and guitar as well as cooking! This site was built with a lot of help from the UW Women in STEM club. (www.uwwistem.ca) </p>
     </div>
     <div class="portfolio">
         <h2>  PROJECTS  </h2>
@@ -46,7 +46,7 @@
 </body>
 
 <footer>
-    <a class="btn" href="PATH TO YOUR RESUME" title="Resume" onclick="window.open(this.href); return false; onkeypress="window.open(this.href); return false;">
+    <a class="btn" href="https://drive.google.com/file/d/1NJW-r4NhNGO9ZrWJFDRpTDreX1n7YTCh/view?usp=sharing" title="Resume" onclick="window.open(this.href); return false; onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
     <a class="btn" href="https://www.facebook.com/fatimah.are/" title="Facebook" onclick="window.open(this.href); return false;"
