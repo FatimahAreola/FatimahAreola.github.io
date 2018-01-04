@@ -24,8 +24,8 @@
 <body>
     <div class="bio">
         <img id="headshot" src="desktop/headshot.jpg">
-        <h2> * I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone and guitar and cooking!* </h2>
-        <p> * WRITE ABOUT YOURSELF HERE * </p>
+        <h2> * ABOUT* </h2>
+        <p> * I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone and guitar and cooking! * </p>
     </div>
     <div class="portfolio">
         <h2> * A PLACE TO SHOW OFF YOUR WORK/LIFE * </h2>
@@ -50,19 +50,15 @@
     <a class="btn" href="PATH TO YOUR RESUME" title="Resume" onclick="window.open(this.href); return false; onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
-    <a class="btn" href="https://www.facebook.com/UWWiSTEM/" title="Facebook" onclick="window.open(this.href); return false;"
+    <a class="btn" href="https://www.facebook.com/fatimah.are/" title="Facebook" onclick="window.open(this.href); return false;"
         onkeypress="window.open(this.href); return false;">
         <i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
     </a>
-    <a class="btn" href="LINK TO YOUR GITHUB OR PORTFOLIO HERE" title="Portfolio" onclick="window.open(this.href); return false;"
-        onkeypress="window.open(this.href); return false;">
-        <i class="fa fa-github fa-3x" aria-hidden="true"></i>
-    </a>
-    <a class="btn" href="https://www.instagram.com/uwwistem/" title="Instagram" onclick="window.open(this.href); return false;"
+    <a class="btn" href="https://www.instagram.com/fatimahareola/" title="Instagram" onclick="window.open(this.href); return false;"
         onkeypress="window.open(this.href); return false;">
         <i class="fa fa-instagram fa-3x" aria-hidden="true"></i>
     </a>
-    <a class="btn" href="LINK TO YOUR LINKEDIN HERE" title="LinkedIn" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">
+    <a class="btn" href="https://www.linkedin.com/in/areolafatimah" title="LinkedIn" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
     </a>
 </footer>
