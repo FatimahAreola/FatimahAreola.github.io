@@ -34,7 +34,7 @@
                 </a>
    <div class="portfolio-row">
             <div class="portfolio-item">
-               <h4>  CURRENTLY WORKING ON:
+                <h4>  CURRENTLY WORKING ON: </h4>
                <p>  I'm on a study term! 
 Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics. <p>
               
