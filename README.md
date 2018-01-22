@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <!-- The title = what goes on the tab -->
  <title> Fatimah Areola </title>
-  link rel="stylesheet" href="FatimahAreola.github.io/css/styles.css"
+  <!--link rel="stylesheet" href="FatimahAreola.github.io/css/styles.css"
 </head>
 
 <header>
