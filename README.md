@@ -43,7 +43,7 @@
                     Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics.
               
 <footer>
-    <a class="btn" href="https://drive.google.com/file/d/1NJW-r4NhNGO9ZrWJFDRpTDreX1n7YTCh/view?usp=sharing" title="Resume" onkeypress="window.open(this.href); return false;">
+    <a class="btn" href="https://drive.google.com/open?id=1-M2kLVSglXU69VKSmxas4ng4blW94mJ4" title="Resume" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
     <a class="btn" href="https://www.facebook.com/fatimah.are/" title="Facebook" onclick="window.open(this.href); return false;"
