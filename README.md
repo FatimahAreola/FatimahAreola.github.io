@@ -40,7 +40,7 @@
             <div class="portfolio-item">
                <h4>  CURRENTLY WORKING ON:
                 <p> I'm on a study term! 
-                    Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics.
+                    Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics. </p>
               
 <footer>
     <a class="btn" href="https://drive.google.com/open?id=1-M2kLVSglXU69VKSmxas4ng4blW94mJ4" title="Resume" onkeypress="window.open(this.href); return false;">
