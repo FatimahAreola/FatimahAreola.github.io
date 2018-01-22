@@ -35,8 +35,10 @@
                 <p> DESCRIBE <p>
                 <a class="btn" href="https://drive.google.com/open?id=1IG54v4k2r8fM8vexrPPBR-fsrwyVbfHc" title="DST" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
-                    <a
-                <h4>  CURRENTLY WORKING ON:
+      
+   <div class="portfolio-row">
+            <div class="portfolio-item">
+               <h4>  CURRENTLY WORKING ON:
                 <p> I'm on a study term! 
                     Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics.
                 <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">>
