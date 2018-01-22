@@ -41,7 +41,8 @@
                <h4>  CURRENTLY WORKING ON:
                 <p> I'm on a study term! 
                     Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics.
-                <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">>
+                <img class="portfolio-item-image" src="img/introtoprogrammingf17.jpg">
+                  <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
 
 <footer>
     <a class="btn" href="https://drive.google.com/file/d/1NJW-r4NhNGO9ZrWJFDRpTDreX1n7YTCh/view?usp=sharing" title="Resume" onkeypress="window.open(this.href); return false;">
