@@ -25,14 +25,14 @@
         <div class="portfolio-row">
             <div class="portfolio-item">
                 <h4>  MSCI 100 GROUP PROJECT: DECISION SUPPORT TOOL  </h4>
-                <p> DESCRIBE <p>
+                <p> The objective of the MSCI100 term project was to build a "descision support system" that would aid future students in completing projects similar to the MSCI100 term project. This DST was designed to aid a project manager to track individual to-do lists through a GANTT chart. It was designed to be user-friendly and easy to edit, built using VBA and centralized designed to be stored in a Google Drive. Through the process of building our DST, I had the opptunity to learn project management, the Software Development Life Cyle (SLDC) and Visual Basic for Applications. <p>
                 <a class="btn" href="https://drive.google.com/open?id=1IG54v4k2r8fM8vexrPPBR-fsrwyVbfHc" title="DST" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
                    </a>
                   <div class="portfolio-row">
             <div class="portfolio-item">
                 <h4> FRESH EVENTS  </h4>
-                <p> DESCRIBE <p>
+                <p> Fresh Events was a small business I founded in the Summer 2016, it was funded by the Ministry of Economic Growth and Development's Summer Company Program. Through the program I gained mentorship and a $3000 grant towards launching Fresh Events. I had the opportunity to learn about the business operations and management, financial organization, marketing and customer service. <p>
                 <a class="btn" href="http://fraichesauga.wixsite.com/freshevents" 
                    title="FreshEvents" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
@@ -40,8 +40,8 @@
    <div class="portfolio-row">
             <div class="portfolio-item">
                 <h4>  CURRENTLY WORKING ON: </h4>
-               <p>  I'm on a study term! 
-Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics. <p>        
+               <p>  I'm on a study term! Looking for Co-op Opportunities in Summer 2018
+Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics, Managament Engineering Concepts. <p>        
     <a class="btn" href="https://drive.google.com/open?id=1-M2kLVSglXU69VKSmxas4ng4blW94mJ4" title="Resume" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
