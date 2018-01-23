@@ -3,19 +3,16 @@
 <html lang="en">
 
 <!-- The head = space to link to important things the webpage needs to load -->
-
 <head>
     <!-- Tells the browser how to read this document -->
     <meta charset="utf-8">
     <!-- The title = what goes on the tab -->
- <title>* Fat0imah Areola *</title>
+ <title> Fatimah Areola </title>
 
     <!-- Links to where you've put the styles of your page -->
     <link rel="stylesheet" href="css/styles.css">
     <!-- Link to getting the icons from font awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-
 <header>
     <h1>  Fatimah Areola  </h1>
     <h2> 1B Honors Management Engineering </h2>
