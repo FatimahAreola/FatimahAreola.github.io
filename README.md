@@ -40,9 +40,9 @@
             <div class="portfolio-item">
                 <h4>  CURRENTLY WORKING ON: </h4>
                <p>  I'm on a study term! 
-Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics. <p>
-              
-<footer>
+Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics. <p>        
+
+<div
     <a class="btn" href="https://drive.google.com/open?id=1-M2kLVSglXU69VKSmxas4ng4blW94mJ4" title="Resume" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
@@ -57,4 +57,3 @@ Relevant Courses: Introduction to Computer Programming (Processing/Java), Electr
     <a class="btn" href="https://www.linkedin.com/in/areolafatimah" title="LinkedIn" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-linkedin fa-3x" aria-hidden="true"></i>
     </a>
-</footer>
