@@ -1,9 +1,13 @@
+#FatimahAreola.github.io
 <doctype html>
 <html lang="en">
-<head>
+
 <!-- The head = space to link to important things the webpage needs to load -->
+
+<head>
     <!-- Tells the browser how to read this document -->
     <meta charset="utf-8">
+
     <!-- The title = what goes on the tab -->
  <title> Fatimah Areola </title>
   <!--link rel="stylesheet" href="FatimahAreola.github.io/css/styles.css
