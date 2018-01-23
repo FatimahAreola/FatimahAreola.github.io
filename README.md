@@ -28,8 +28,8 @@
                 <p> DESCRIBE <p>
                 <a class="btn" href="https://drive.google.com/open?id=1IG54v4k2r8fM8vexrPPBR-fsrwyVbfHc" title="DST" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
-                    <div class="portfolio-row">
-                        </a>
+                   </a>
+                  <div class="portfolio-row">
             <div class="portfolio-item">
                 <h4> FRESH EVENTS  </h4>
                 <p> DESCRIBE <p>
