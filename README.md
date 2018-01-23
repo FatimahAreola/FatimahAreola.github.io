@@ -1,6 +1,7 @@
 #FatimahAreola.github.io
 <doctype html>
 <html lang="en">
+<head>
 <!-- The head = space to link to important things the webpage needs to load -->
     <!-- Tells the browser how to read this document -->
     <meta charset="utf-8">
@@ -8,9 +9,7 @@
  <title> Fatimah Areola </title>
   <!--link rel="stylesheet" href="FatimahAreola.github.io/css/styles.css
     <!-- Link to getting the icons from font awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 <header>
     
 </head>
