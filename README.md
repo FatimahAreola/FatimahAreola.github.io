@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <header>
     <h1>  <img id="Me!" src="https://render.bitstrips.com/v2/cpanel/a41da708-81e9-4ec3-9364-9d8748f7063d-7038c776-e541-4fb2-9a81-4e207a275409-v1.png?transparent=1&palette=1" width="100" height="100"> Fatimah Areola  </h1>
+    
     <h2> 1B Honors Management Engineering </h2>
 </header>
 
