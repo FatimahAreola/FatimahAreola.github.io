@@ -10,13 +10,13 @@
     <!-- Link to getting the icons from font awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <header>
-    <h1>  Fatimah Areola  </h1>
+    <h1>  <img id="Me!" src="https://render.bitstrips.com/v2/cpanel/a41da708-81e9-4ec3-9364-9d8748f7063d-7038c776-e541-4fb2-9a81-4e207a275409-v1.png?transparent=1&palette=1" width="100" height="100"> Fatimah Areola  </h1>
     <h2> 1B Honors Management Engineering </h2>
 </header>
 
 <body>
     <div class="bio">
-        <img id="Me!" src="https://render.bitstrips.com/v2/cpanel/a41da708-81e9-4ec3-9364-9d8748f7063d-7038c776-e541-4fb2-9a81-4e207a275409-v1.png?transparent=1&palette=1" width="100" height="100">
+   <!-- <img id="Me!" src="https://render.bitstrips.com/v2/cpanel/a41da708-81e9-4ec3-9364-9d8748f7063d-7038c776-e541-4fb2-9a81-4e207a275409-v1.png?transparent=1&palette=1" width="100" height="100"> -->
         <h2>  ABOUT </h2>
         <p>  I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone, and guitar as well as cooking! This site was built with a lot of help from the UW Women in STEM club. (www.uwwistem.ca) </p>
     </div>
