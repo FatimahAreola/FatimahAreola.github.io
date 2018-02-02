@@ -42,7 +42,7 @@
                 <h4>  CURRENTLY WORKING ON: </h4>
                <p>  I'm on a study term! Looking for Co-op Opportunities in Summer 2018
 Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics, Managament Engineering Concepts. <p>        
-    <a class="btn" href="https://drive.google.com/open?id=1-M2kLVSglXU69VKSmxas4ng4blW94mJ4" title="Resume" onkeypress="window.open(this.href); return false;">
+    <a class="btn" href="https://drive.google.com/open?id=1NFfOeH-cogZ2JdGqiFJkskJWWoGB80_k" title="Resume" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
     <a class="btn" href="https://www.facebook.com/fatimah.are/" title="Facebook" onclick="window.open(this.href); return false;"
