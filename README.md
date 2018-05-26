@@ -22,9 +22,9 @@
 <p>
 Relevant Coursework: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics, Managament Engineering Concepts.</p>
  
-<p> Techincal Skills: Front End Web Development (HTML/CSS), Java, VBA, Python, Node.js, SQL</p>
+<p> Techincal Skills: Front End Web Development (HTML/CSS), Java, VBA, Python, Node.js, SQL </p>
        
-    </div>
+  </div>
     <div class="portfolio">
         <h2>  PROJECTS  </h2>
         <div class="portfolio-row">
@@ -42,15 +42,7 @@ Relevant Coursework: Introduction to Computer Programming (Processing/Java), Ele
                    title="FreshEvents" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
                 </a>
-                
- <!-- <div class="portfolio-row">
-           <div class="portfolio-item">
-                <h4> TOHacks  </h4>
-                <p>  <p>
-                <a class="btn" href="http://fraichesauga.wixsite.com/freshevents" 
-                   title="FreshEvents" onkeypress="window.open(this.href); return false;">
-        <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
-                </a> -->
+             
                 
    <div class="portfolio-row">
             <div class="portfolio-item">
