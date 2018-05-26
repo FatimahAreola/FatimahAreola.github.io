@@ -19,6 +19,8 @@
     <div class="bio">
         <h2>  ABOUT </h2>
         <p>  I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone, and guitar as well as cooking! This site was built with a lot of help from the UW Women in STEM club. (www.uwwistem.ca) </p>
+<p>
+Relevant Coursework: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics, Managament Engineering Concepts.</p>
     </div>
     <div class="portfolio">
         <h2>  PROJECTS  </h2>
@@ -37,11 +39,20 @@
                    title="FreshEvents" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
                 </a>
+                
+ <!-- <div class="portfolio-row">
+           <div class="portfolio-item">
+                <h4> TOHacks  </h4>
+                <p>  <p>
+                <a class="btn" href="http://fraichesauga.wixsite.com/freshevents" 
+                   title="FreshEvents" onkeypress="window.open(this.href); return false;">
+        <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
+                </a>
+                
    <div class="portfolio-row">
             <div class="portfolio-item">
                 <h4>  CURRENTLY WORKING ON: </h4>
-               <p>  I'm on a study term! Looking for Co-op Opportunities in Summer 2018
-Relevant Courses: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics, Managament Engineering Concepts. <p>        
+               <p>  I'm on a Co-op Term! Find me at TJX Canada in Summer 2018 <p>        
     <a class="btn" href="https://drive.google.com/open?id=1sSzU5Uqlr30FEs0oV4kj55-6X1kfJtP6" title="Resume" onkeypress="window.open(this.href); return false;">
         <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
     </a>
