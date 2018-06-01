@@ -17,7 +17,7 @@
       color: #f5f6f7;
   }
   p {font-size: 16px;}
-  .margin {margin-bottom: 0px;}
+  .margin {margin-bottom:}
   .bg-1 { 
       background-color: #1abc9c; /* Green */
       color: #ffffff;
