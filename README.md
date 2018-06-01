@@ -1,5 +1,4 @@
-#FatimahAreola.github.io
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
