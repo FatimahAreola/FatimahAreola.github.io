@@ -18,9 +18,9 @@
 <body>
     <div class="bio">
         <h2>  ABOUT </h2>
-        <p>  I’m a first-year Management Engineering student, interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone, and guitar as well as cooking! This site was built with a lot of help from the UW Women in STEM club. (www.uwwistem.ca) </p>
+        <p> Just a first-year Management Engineering student trying to learn some code and showcase the projects I get excited about! Interested in exploring the relationship between people and the technology they interact with daily. Experience starting and operating my own small business and managing groups of high school volunteers. Outside of school my hobbies include taking on DIY Projects, playing the trumpet,trombone, and guitar as well as cooking! This site was built with a lot of help from the UW Women in STEM club. (www.uwwistem.ca) </p>
 <p>
-Relevant Coursework: Introduction to Computer Programming (Processing/Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics, Managament Engineering Concepts.</p>
+Relevant Coursework: Introduction to Computer Programming (Java), Electrial Engineering, Work Design and Facilities Planning, Engineering Economics, Managament Engineering Concepts.</p>
  
 <p> Techincal Skills: Front End Web Development (HTML/CSS), Java, VBA, Python, Node.js, SQL </p>
        
