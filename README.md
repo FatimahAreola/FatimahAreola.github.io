@@ -1,9 +1,8 @@
 #FatimahAreola.github.io
 
-## Project Title
-Personal Website - Fatimah Areola
-## Project Description
-Hi, I'm Fatimah!
+## Personal Website - Fatimah Areola
+
+## Hi, I'm Fatimah!
 I decided to start building this website to learn a bit of web devleopment.
 It is meant to be a central space for everything I'm working on, between school, projects, work terms and extracurriculars.
 
